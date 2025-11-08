@@ -1,10 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Nguyen%20Hoang%20Tung&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=ITMO%20Student%20|%202nd-Year%20Software%20Engineer%20|%20Curious%20Mind&descSize=27&descAlignY=85&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Nguyen%20Hoang%20Tung&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=ITMO%20Student%20|%202nd-Year%20Software%20Engineer%20|%20Passionate%20Leaner&descSize=27&descAlignY=85&section=header" />
 
-I'm Nguyen Hoang Tung — a 2nd-year Software Engineering student currently diving into **Game Development with Unity** 🎮  
+Hi there! I'm Nguyen Hoang Tung — a 2nd-year Software Engineering student currently diving into **Game Development with Unity** 🎮  
 I love **exploring new technologies**, learning by doing, and building things that come to life.  
 Maybe one day you'll be playing one of my games 👀  
-I'm also an **AI-holic**, fascinated by how machines learn and think 🤖  
+I'm also an **AI-holic**, someone who's deeply fascinated by AI and loves discovering how it can shape the future 🤖  
 
+*My favorite quote:*
 💡 *“The only true wisdom is in knowing you know nothing.” – Socrates*
 
 ---
