@@ -2,12 +2,13 @@ name: Update Year Progress
 
 on:
   schedule:
-    - cron: "0 0 * * *" # chạy mỗi ngày 00:00 UTC
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   update:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -19,12 +20,15 @@ jobs:
           END=$(date -d "$(date +%Y)-12-31 23:59:59" +%s)
           TOTAL=$((END - START))
           ELAPSED=$((NOW - START))
+
           PERCENT=$(awk "BEGIN {printf \"%.2f\", ($ELAPSED/$TOTAL)*100}")
 
-          FILLED=$((PERCENT / 4))
+          FILLED=$(awk -v p="$PERCENT" 'BEGIN {printf "%d", (p/100)*25}')
           EMPTY=$((25 - FILLED))
+
           BAR=$(printf "%0.s█" $(seq 1 $FILLED))
           BAR+=$(printf "%0.s▁" $(seq 1 $EMPTY))
+
           DATE=$(date "+%d-%b-%Y")
 
           echo "⏳ **Year Progress:** { $BAR } $PERCENT% as on ⏰ $DATE" > progress.txt
@@ -43,7 +47,7 @@ jobs:
             print
           }' README.md > tmp && mv tmp README.md
 
-      - name: Commit changes
+      - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
