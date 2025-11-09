@@ -1,8 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Nguyen%20Hoang%20Tung&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=ITMO%20Student%20|%202nd-Year%20Software%20Engineer%20|%20Passionate%20Leaner&descSize=27&descAlignY=85&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Nguyen%20Hoang%20Tung&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=ITMO%20Student%20&descSize=27&descAlignY=85&section=header" />
 
-Hi there! I'm Nguyen Hoang Tung — a 2nd-year Software Engineering student currently diving into **Game Development with Unity** 🎮  
-I love **exploring new technologies**, learning by doing, and building things that come to life.  
-Maybe one day you'll be playing one of my games 👀  
+I'm Nguyen Hoang Tung — a 2nd-year Software Engineering student. 
+I love **exploring new technologies**, learning by doing, and building things that come to life.
 I'm also an **AI-holic**, someone who's deeply fascinated by AI and loves discovering how it can shape the future 🤖  
 
 *My favorite quote:*
@@ -10,11 +9,7 @@ I'm also an **AI-holic**, someone who's deeply fascinated by AI and loves discov
 
 ---
 
-<div align="center">
-    <picture>
-      <img align="center" src="https://user-images.githubusercontent.com/67017303/209289640-cde876f9-7b57-4184-b377-72928a8319ae.gif">
-    </picture>
-</div>
+⏳ **Year Progress:** <!--START_SECTION:yearprogress-->0%<!--END_SECTION:yearprogress-->
 
 ---
 
@@ -69,4 +64,4 @@ I'm also an **AI-holic**, someone who's deeply fascinated by AI and loves discov
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&section=footer&text=See%20You%20in%20the%20Next%20Level%20🎮&fontSize=28&fontColor=61DAFB&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&section=footer&text=Thank%20you%20for%20%visting!%20&fontSize=28&fontColor=61DAFB&animation=twinkling" />
