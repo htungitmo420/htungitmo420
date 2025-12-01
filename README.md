@@ -50,16 +50,8 @@ I'm also an **AI-holic**, someone who's deeply fascinated by AI and loves discov
 ### ⚙️ Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,github,idea,notion,unity&theme=light" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,idea,notion&theme=light" />
   </a>
-</p>
-
----
-
-### 🧩 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htungitmo420&layout=compact&langs_count=8&theme=radical&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false&custom_title=Most%20Used%20Languages" height="170em"/>
 </p>
 
 ---
