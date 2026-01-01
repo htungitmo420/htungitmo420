@@ -10,7 +10,7 @@ I'm also an **AI-holic**, someone who's deeply fascinated by AI and loves discov
 ---
 
 <!--START_SECTION:yearprogress-->
-⏳ **Year Progress:** { ████████████████████████▁ } 99.75% as on ⏰ 31-Dec-2025
+⏳ **Year Progress:** { █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 0.03% as on ⏰ 01-Jan-2026
 <!--END_SECTION:yearprogress-->
 
 ### 📬 Connect with Me  
