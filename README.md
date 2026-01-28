@@ -9,9 +9,11 @@ _My favorite quote:_
 
 ---
 
-⏳ **Year Progress:** <!--START_SECTION:yearprogress-->0%<!--END_SECTION:yearprogress-->
+<!--START_SECTION:yearprogress-->
 
----
+⏳ **Year Progress:** { █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 7.42% as on ⏰ 28-Jan-2026
+
+<!--END_SECTION:yearprogress-->
 
 ### 📬 Connect with Me
 
@@ -54,14 +56,6 @@ _My favorite quote:_
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,github,idea,notion,docker,mongodb,&theme=light" />
   </a>
-</p>
-
----
-
-### 🧩 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htungitmo420&layout=compact&langs_count=8&theme=radical&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false&custom_title=Most%20Used%20Languages" height="170em"/>
 </p>
 
 ---
