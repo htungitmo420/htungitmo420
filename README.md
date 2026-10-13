@@ -7,5 +7,5 @@ I build small things, meet bugs, and call it learning.
 Quietly improving. Occasionally staring at errors until they blink first.
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHlldGN5anc4NnlybmJmd28ycjY2dHl2cjAzNDd5enV0anhtbGlzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EqQjJGze14ED0WluL7/giphy.gif" alt="gif" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDN5N2ZyMHc2NjZod2VzdW9veDU5bnB2eHFqcnRqMXp3bHZtc2l1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NAdEYIRFMCBhMGkXSq/giphy.gif" alt="gif" />
 </p>
